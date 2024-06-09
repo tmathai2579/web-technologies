@@ -1,0 +1,14 @@
+{
+  "name": "lab-2",
+  "version": "1.0.0",
+  "description": "lab 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tinu Mathai",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.4.1"
+  }
+}
